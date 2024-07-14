@@ -11,7 +11,12 @@ public class App
         System.out.println( "Hello World!" );
     }
 
+<<<<<<< Updated upstream
     public void print(){
         System.out.println("high priority task");
+=======
+    public int add(int a){
+        return a;
+>>>>>>> Stashed changes
     }
 }
